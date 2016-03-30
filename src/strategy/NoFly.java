@@ -6,5 +6,9 @@ public class NoFly implements FlyBehavior {
 		// TODO Auto-generated method stub
 		System.out.println("I can not fly without wings");
 	}
+	
+	public void test() {
+		System.out.println("Test");
+	}
 
 }
